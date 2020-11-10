@@ -1,7 +1,4 @@
-# Maratona-UFV
-
-
-<div style="text-align:center"><img src="./logo-event.png"/></div>
+#  III Maratona de Programação da SI (Semana de Informática)
 
 # 📌 Description
 
@@ -17,7 +14,7 @@ Contribute to this repository!
 <br>
 [![Cplusplus](https://img.shields.io/static/v1?label=C%2B%2B&message=17&colorA=purple&color=black&logo=C%2B%2B&logoColor=white)](https://www.cplusplus.com/)
 
-## :pencil2: Team Camaradas
+## :pencil2: Team [UFES] QueriaPython
 
 <table>
   <tr>
